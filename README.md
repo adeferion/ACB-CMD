@@ -5,7 +5,7 @@
 
 [TASBot](https://discord.gg/RbWPSYPyrS) `(.json)`
 
-# Click pack guide
+# Clickpack guide
 
  
 
