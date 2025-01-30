@@ -3,7 +3,7 @@
 # Supported files (Macros)
 [Echo](https://discord.gg/7yEHbBVswh) `(.echo)` (Quite an old version of echo, not the latest.)
 
-[TASbot](https://discord.gg/RbWPSYPyrS) `(.json)`
+[TASBot](https://discord.gg/RbWPSYPyrS) `(.json)`
 
 # Click pack guide
 
