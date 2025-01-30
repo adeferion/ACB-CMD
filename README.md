@@ -1,4 +1,4 @@
-# ACB Version 4.0
+# ACB Version CMD / 4.0
 
 # Supported files (Macros)
 [Echo](https://discord.gg/7yEHbBVswh) `(.echo)` (Quite an old version of echo, not the latest.)
