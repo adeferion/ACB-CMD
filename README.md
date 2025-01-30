@@ -66,7 +66,7 @@
             │   ├── 2.wav
             │   ├── 3.wav
             │   └── 4.wav
-            └── softCeleases/
+            └── softReleases/
                 ├── 1.wav
                 ├── 2.wav
                 ├── 3.wav
